@@ -1,0 +1,27 @@
+{
+  "name": "oppish-ttt-challenge",
+  "version": "1.0.0",
+  "description": "Test cases for oppish algorithms TTT challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinkmill/oppish-ttt-challenge.git"
+  },
+  "author": "Kevin Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thinkmill/oppish-ttt-challenge/issues"
+  },
+  "homepage": "https://github.com/Thinkmill/oppish-ttt-challenge#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.14.1",
+    "eslint-config-keystone": "^3.0.0",
+    "jest": "^18.1.0"
+  }
+}
